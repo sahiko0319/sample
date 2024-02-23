@@ -42,5 +42,5 @@ function App() {
     </div>
   );
 }
-// インソール5
+// あインソール5
 export default App;
