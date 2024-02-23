@@ -42,5 +42,5 @@ function App() {
     </div>
   );
 }
-
+// コンソール5
 export default App;
