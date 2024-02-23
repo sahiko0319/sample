@@ -15,7 +15,7 @@ function App() {
     setShowFace(!showFace);
   }
   
-  // コンソール
+  // コンソールあ
   console.log("showFace1:"+showFace+"時間："+Date.now()+",num:"+num);
 
   useEffect(()=>{
