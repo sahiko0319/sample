@@ -31,7 +31,7 @@ function App() {
       }
     }
   },[num]);
-  
+  // 返却
   return (
     <div className="App">
     <p>{console.log("showFace3:"+showFace+"時間："+Date.now()+",num:"+num)}</p>
@@ -42,5 +42,6 @@ function App() {
     </div>
   );
 }
+
 // コンソール5
 export default App;
