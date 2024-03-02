@@ -16,7 +16,7 @@ function App() {
   }
   
   // コンソール5
-  // コンソール6
+  // コンソール7
   console.log("showFace1:"+showFace+"時間："+Date.now()+",num:"+num);
 
   useEffect(()=>{
