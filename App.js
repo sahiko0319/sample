@@ -43,5 +43,6 @@ function App() {
   );
 }
 
-// コンソール10
+
+// コンソール11
 export default App;
